@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Python for beginners projects.
 - 📫 How to reach me via email? ldreyer777@gmail.com
 - 😄 Pronouns: Her/She
-- ⚡ Fun fact: I am a multifaceted person.
+- ⚡ Fun fact: I am learning to code and am actively looking to transition into tech.
 
 <!---
 creshia/creshia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
